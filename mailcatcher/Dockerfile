@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.4
 
 RUN apk --update add ruby ruby-dev ruby-bigdecimal sqlite sqlite-dev build-base libstdc++ \
     && gem install json mailcatcher --no-ri --no-rdoc \
