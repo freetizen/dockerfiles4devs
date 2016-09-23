@@ -2,9 +2,7 @@
 
 [Mailcatcher](http://mailcatcher.me) runs a super simple SMTP server which catches any message sent to it to display in a web interface.
 
-[![](https://images.microbadger.com/badges/image/freetizen/mailcatcher.svg)](https://microbadger.com/images/freetizen/mailcatcher "Get your own image badge on microbadger.com")
-
-[![](https://images.microbadger.com/badges/version/freetizen/mailcatcher.svg)](https://microbadger.com/images/freetizen/mailcatcher "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/freetizen/mailcatcher.svg)](https://microbadger.com/images/freetizen/mailcatcher "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/freetizen/mailcatcher.svg)](https://microbadger.com/images/freetizen/mailcatcher "Get your own version badge on microbadger.com")
 
 
 ## Usage
