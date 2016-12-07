@@ -2,6 +2,7 @@
 
 [MariaDB](http://mariadb.org) is one of the most popular database servers in the world. It’s made by the original developers of MySQL and guaranteed to stay open source.
 
+[![](https://images.microbadger.com/badges/image/freetizen/mariadb.svg)](https://microbadger.com/images/freetizen/mariadb "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/freetizen/mariadb.svg)](https://microbadger.com/images/freetizen/mariadb "Get your own version badge on microbadger.com")
 
 ## Usage
 

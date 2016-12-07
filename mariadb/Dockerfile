@@ -1,6 +1,7 @@
-FROM alpine:latest
+FROM alpine:3.4
 
 RUN apk --update add mysql mysql-client pwgen \
+    && rm -rf /tmp/src \
     && rm -f /var/cache/apk/*
 
 ADD scripts/run.sh /scripts/run.sh
